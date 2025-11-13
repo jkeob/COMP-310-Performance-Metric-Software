@@ -1,5 +1,7 @@
 # COMP 310 Final Project | Performance Metric Software
 
+This project is a lightweight program that equips the user with full visibility of system resource usage via a GUI. 
+
 ---
 
 ## Quick start
